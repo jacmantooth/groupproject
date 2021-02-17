@@ -1,0 +1,101 @@
+RANK,NAME,TEAM,CL,POSITION,G,PASS ATT,PASS COM,INT,PASS TD,PASS YDS
+1,Mac Jones,Alabama,Jr.,QB,13,402,311,4,41,4500
+2,Kyle Trask,Florida,Sr.,QB,12,437,301,8,43,4283
+3,Zach Wilson,BYU,Jr.,QB,12,336,247,3,33,3692
+4,Sam Howell,North Carolina,So.,QB,12,348,237,7,30,3586
+5,Dillon Gabriel,UCF,So.,QB,10,413,248,4,32,3570
+6,Brady White,Memphis,Sr.,QB,11,420,254,10,31,3380
+7,Matt Corral,Ole Miss,So.,QB,10,326,231,14,29,3337
+8,Trevor Lawrence,Clemson,Jr.,QB,10,334,231,5,24,3153
+9,Shane Buechele,SMU,Sr.,QB,10,370,242,6,23,3095
+10,Spencer Rattler,Oklahoma,Fr.,QB,11,317,214,7,28,3031
+11,Carson Strong,Nevada,So.,QB,9,355,249,4,27,2858
+12,Ian Book,Notre Dame,Sr.,QB,12,353,228,3,15,2830
+13,Brock Purdy,Iowa St.,Jr.,QB,12,365,243,9,19,2750
+14,D'Eriq King,Miami (FL),Sr.,QB,11,329,211,5,23,2686
+15,Malik Cunningham,Louisville,Jr.,QB,11,304,195,12,20,2617
+16,Jarret Doege,West Virginia,Jr.,QB,10,374,239,4,14,2587
+17,Sam Ehlinger,Texas,Sr.,QB,10,322,194,5,26,2566
+18,Phil Jurkovec,Boston College,Jr.,QB,10,336,205,5,17,2558
+19,Grayson McCall,Coastal Carolina,Fr.,QB,11,250,172,3,26,2488
+20,Bo Nix,Auburn,So.,QB,11,357,214,7,12,2415
+21,Kenny Pickett,Pittsburgh,Sr.,QB,9,332,203,9,13,2408
+22,Connor Bazelak,Missouri,Fr.,QB,10,324,218,6,7,2366
+23,Desmond Ridder,Cincinnati,Jr.,QB,10,281,186,6,19,2296
+24,Kellen Mond,Texas A&M,Sr.,QB,10,297,188,3,19,2282
+25,Cornelious Brown,Georgia St.,Fr.,QB,10,304,178,10,17,2278
+26,Levi Lewis,Louisiana,Sr.,QB,11,297,177,7,19,2274
+27,Malik Willis,Liberty,Jr.,QB,10,265,170,6,20,2260
+28,Sam Hartman,Wake Forest,So.,QB,9,273,159,5,13,2224
+29,Zac Thomas,App State,Sr.,QB,12,291,186,11,20,2189
+30,Nick Starkel,San Jose St.,Sr.,QB,8,254,163,7,17,2174
+31,Chase Brice,Duke,Jr.,QB,11,352,193,15,10,2170
+32,Drew Plitt,Ball St.,Sr.,QB,8,250,164,6,17,2154
+33,Gunnar Watson,Troy,So.,QB,9,301,211,7,16,2141
+34,Brennan Armstrong,Virginia,So.,QB,9,268,157,11,18,2117
+35,Feleipe Franks,Arkansas,Sr.,QB,10,238,163,4,17,2107
+36,Justin Fields,Ohio St.,Jr.,QB,8,225,158,6,22,2100
+37,Grant Wells,Marshall,Fr.,QB,10,270,165,9,18,2091
+38,Bailey Hockman,NC State,Jr.,QB,10,266,171,11,13,2088
+39,Chevan Cordeiro,Hawaii,So.,QB,9,313,195,6,14,2083
+40,Layne Hatcher,Arkansas St.,So.,QB,11,194,116,2,19,2058
+41,Clayton Tune,Houston,Jr.,QB,8,285,170,10,15,2048
+42,Jake Haener,Fresno St.,Jr.,QB,6,232,150,5,14,2021
+43,Spencer Sanders,Oklahoma St.,So.,QB,9,247,155,8,14,2007
+44,Will Rogers,Mississippi St.,Fr.,QB,9,346,239,7,11,1976
+45,Asher O'Hara,Middle Tenn.,Jr.,QB,9,288,192,8,12,1960
+46,Charlie Brewer,Baylor,Sr.,QB,9,321,198,8,14,1958
+47,Zach Smith,Tulsa,Sr.,QB,9,263,147,10,13,1947
+48,Ken Seals,Vanderbilt,Fr.,QB,9,288,186,10,12,1928
+49,Brady McBride,Texas St.,Jr.,QB,9,282,173,7,17,1925
+50,Holton Ahlers,East Carolina,Jr.,QB,8,269,165,9,18,1921
+51,Kedon Slovis,Southern California,So.,QB,6,264,177,7,17,1921
+52,Desmond Trotter,South Alabama,So.,QB,10,248,160,4,11,1917
+53,Sean Clifford,Penn St.,Jr.,QB,9,251,152,9,16,1883
+54,Jeff Sims,Georgia Tech,Fr.,QB,10,257,141,13,13,1881
+55,Logan Bonner,Arkansas St.,Jr.,QB,11,262,156,6,18,1863
+56,Michael Pratt,Tulane,Fr.,QB,10,254,140,8,20,1806
+57,Max Duggan,TCU,So.,QB,10,240,146,4,10,1795
+58,Peyton Ramsey,Northwestern,Sr.,QB,9,282,172,8,12,1733
+59,Kaleb Eleby,Western Mich.,So.,QB,6,153,99,2,18,1715
+60,Preston Hutchinson,Eastern Mich.,Jr.,QB,6,198,126,6,12,1657
+61,Austin Aune,North Texas,So.,QB,8,185,101,4,13,1650
+62,Michael Penix Jr.,Indiana,So.,QB,6,220,124,4,14,1645
+63,Frank Harris,UTSA,Jr.,QB,12,250,159,6,12,1630
+64,Tyrrell Pigrome,Western Ky.,Sr.,QB,11,297,171,2,9,1603
+65,Alan Bowman,Texas Tech,So.,QB,8,232,150,7,10,1602
+66,Spencer Petras,Iowa,So.,QB,8,245,140,5,9,1569
+67,Tyler Shough,Oregon,So.,QB,7,167,106,6,13,1559
+68,Colby Suits,ULM,So.,QB,8,249,152,7,8,1541
+69,Davis Mills,Stanford,Sr.,QB,5,195,129,3,7,1508
+70,Luke Anthony,Louisiana Tech,Sr.,QB,9,221,138,5,16,1479
+71,Gavin Hardison,UTEP,So.,QB,7,199,108,5,5,1419
+72,Collin Hill,South Carolina,Sr.,QB,8,215,127,6,6,1411
+73,Tanner Morgan,Minnesota,Jr.,QB,7,183,106,5,7,1374
+74,Ross Bowers,Northern Ill.,Sr.,QB,6,212,123,2,10,1365
+75,Jordan McCloud,South Fla.,So.,QB,8,194,120,2,9,1341
+76,Hendon Hooker,Virginia Tech,Jr.,QB,8,150,98,5,9,1339
+77,Kyle Vantrease,Buffalo,Jr.,QB,7,154,96,3,7,1326
+78,Chris Reynolds,Charlotte,Jr.,QB,6,175,96,2,8,1305
+79,K.J. Costello,Mississippi St.,Sr.,QB,6,209,134,11,6,1283
+80,Noah Vedral,Rutgers,Sr.,QB,7,221,136,8,9,1253
+81,Graham Mertz,Wisconsin,So.,QB,7,193,118,5,9,1238
+82,JT Daniels,Georgia,So.,QB,4,119,80,2,10,1231
+83,Jack Abraham,Southern Miss.,Sr.,QB,5,149,97,4,7,1224
+84,Terry Wilson Jr.,Kentucky,Sr.,QB,10,200,125,4,7,1187
+85,Dustin Crum,Kent St.,Sr.,QB,4,113,83,2,12,1181
+86,Stetson Bennett,Georgia,Jr.,QB,8,155,86,6,8,1179
+87,Will Howard,Kansas St.,Fr.,QB,9,168,90,10,8,1178
+88,Hank Bachmeier,Boise St.,So.,QB,5,156,96,2,6,1150
+89,Jason Bean,North Texas,So.,QB,8,145,79,5,14,1131
+90,Dorian Thompson-Robinson,UCLA,Jr.,QB,5,138,90,4,12,1120
+91,Myles Brennan,LSU,Jr.,QB,3,131,79,3,11,1112
+92,Jarrett Guarantano,Tennessee,Sr.,QB,7,166,103,4,6,1112
+93,Eli Peters,Toledo,Sr.,QB,4,129,88,2,9,1106
+94,Sam Noyer,Colorado,Sr.,QB,6,160,88,7,6,1101
+95,Rocky Lombardi,Michigan St.,Jr.,QB,6,157,84,9,8,1090
+96,Joe Milton,Michigan,Jr.,QB,6,141,80,4,4,1077
+97,Max Johnson,LSU,Fr.,QB,6,150,88,1,8,1069
+98,Henry Colombi,Texas Tech,Jr.,QB,6,166,109,4,8,1065
+99,Shai Werts,Ga. Southern,Sr.,QB,11,133,80,6,8,1062
+100,Jordan Travis,Florida St.,So.,QB,8,131,72,6,6,1056
